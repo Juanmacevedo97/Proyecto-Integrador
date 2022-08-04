@@ -1,0 +1,11 @@
+1)  URL del Repo GitHub del Front End: https://juanmacevedo97.github.io/Portafolio/
+
+2)  URL del Repo GitHub del Back End:  https://github.dev/Juanmacevedo97/Portafolio/blob/main/Untitled-1.html       
+https://github.dev/Juanmacevedo97/README-.gitignore/blob/main/index.html.html
+
+3) URL Portfolio Front End (Firebase)  https://proyecto-integ.web.app/
+
+4)  URL de APIs Back End (HEROKU)
+
+
+5) usuario y clave de acceso del portfolio juanmacevedo97@gmail.com / passwer: 96055365
